@@ -1,5 +1,5 @@
 ---
-Aftermath Developer Blog
+title: Aftermath Developer Blog
 ---
 
 This is the official monthly developer blog for the AC6 Aftermath mod.
