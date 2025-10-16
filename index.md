@@ -26,31 +26,39 @@ We may eventually open a Patrion page. The money would go *exclusively* toward t
 ---
 ## The Development Team
 ---
+
 ### Project Lead
 - The Mask Master
+
 ### Programming Team
 - Maybe Birb
 - Agus451
 - sem_daniel (Arena)
+
 ### Model Department
 - The Mask Master
 - Sundance
 - CasvalRel
 - Helldiver450 (Pre-rendered Cutscenes)
+
 ### FXR Department
 - B3N4ZC4L.VTA
 - DriftyDeath
 - noskopman123
+
 ### Mission & Map Department
 - Maybe Birb (Mission/Map)
 - The Mask Master (Map)
+
 ### Music Department
 - Horusyuh (Music artist)
 - Maybe Birb (Just adds the music)
+
 ### Lore Scribes
 - Hunter
 - HorizoneARC
 - The Mask Master
 - Maybe Birb
+
 ### Voice Actors
 Undecided
