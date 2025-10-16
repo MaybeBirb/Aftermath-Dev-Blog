@@ -1,0 +1,14 @@
+---
+title: AC6 Aftermath Developer Blog - October
+date: 2025-10-31
+---
+
+We're starting a developer blog! I've started to notice that communication is fairly important, so here we are.
+The blog is run by Maybe Birb, currently head programmer in the Aftermath team.
+
+  October started as a busy time for much of the team in real life because of midterms, but a little progress was made in early October. While September ended with some further work on generator coloration, this month we started off by ironing out the details of the first mission.
+  For the programming department, the starting mission is particularly important to work on. To make it, we had to make two maps, a whole mess of enemies, a boss, and an entirely new starting frame (w/ weapons). Few other missions will need this absurd level of work, since when this is done, we'll be able to keep on using those maps and enemies. The first mission is always the slowest - we've been working on this mission for a long while.
+
+  Our FXR department (particle effects) was actually busy making some good ash assets for the team this month, along with the ongoing work on generators. The model department has had a field day working on a number of things, including several new enemies - but mostly a handful of new frames to finish up work in that area. Our newfound music department- currently comprised of a singular goober- is also starting up work on a number of themes you'll be able to hear throughout the mod.
+
+  Something we do understand is that this mod has been in the works for a long while, and it may sound disheartening that we're still working on the first mission. However, be aware that the past several months have had more sporadic work due to our team being occupied on personal projects. Now, with us making our way through arguably the roughest mission of the first chapter, we're optimistic about progress accelerating from here.
