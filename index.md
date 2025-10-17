@@ -8,8 +8,8 @@ Welcome to the monthly dev blog for the AC6 Aftermath mod.
 At the end of each month, we'll post a new blog about what we accomplished that month, which will be linked below.
 
 ## Monthly Logs
-### [October 2025](2025-10-31-Afterblog.md)
-
+### - [October 2025](2025-10-31-Afterblog.md)
+### - ...
 ---
 ## FAQ
 ---
