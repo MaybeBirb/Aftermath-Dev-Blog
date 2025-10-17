@@ -1,6 +1,6 @@
 ---
 title: Aftermath Developer Blog
-tagline: Armored Core 6 - Aftermath
+tagline: Armored Core 6 Aftermath Mod
 description: WIP
 ---
 
