@@ -32,6 +32,9 @@ Yes on both counts:
 **Will Aftermath be compatible with X Mod?**  
 Most likely Aftermath will not be compatible with many other mods, due in large part to the bredth of what it changes. Regardless, we intend to deliver a mod that's so comprehensive, you won't feel the need to install other mods in addition to it.
 
+**Do you use AI in Aftermath?**  
+We have no intention of using any AI-generated images, voices, soundtracks, or other such content.  
+
 ---
 ## The Development Team
 ---
