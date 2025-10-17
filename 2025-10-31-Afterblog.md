@@ -1,7 +1,7 @@
 ---
-title: AC6 Aftermath Developer Blog - October
-date: 2025-10-31
+title: AC6 Aftermath Developer Blog - October 2025
 ---
+Released 2025-10-31
 
 We're starting a developer blog! I've started to notice that communication is fairly important, so here we are.
 The blog is run by Maybe Birb, currently head programmer in the Aftermath team.
