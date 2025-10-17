@@ -10,6 +10,7 @@ At the end of each month, we'll post a new blog about what we accomplished that 
 ## Monthly Logs
 ### - [October 2025](2025-10-31-Afterblog.md)
 ### - ...
+** **  
 ---
 ## FAQ
 ---
