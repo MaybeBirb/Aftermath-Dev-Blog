@@ -63,3 +63,6 @@ We may eventually open a Patrion page. The money would go *exclusively* toward t
 
 ### Voice Actors
 - Undecided
+
+## WORKLOG
+Click [here](worklog.md) to view the current list of things the team is working on.
