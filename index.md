@@ -29,7 +29,7 @@ Yes on both counts:
 - We intend to naturally include Open Server, a mod that hosts private modded PvP servers without the risk of bans.
 - Aftermath is designed to be naturally Co-op mod compatible, but we strongly advise you play through it solo first due to the lore and overall first-time experience.
 
-**Will Aftermath be compatible with X Mod?**
+**Will Aftermath be compatible with X Mod?**  
 Most likely Aftermath will not be compatible with many other mods, due in large part to the bredth of what it changes. Regardless, we intend to deliver a mod that's so comprehensive, you won't feel the need to install other mods in addition to it.
 
 ---
