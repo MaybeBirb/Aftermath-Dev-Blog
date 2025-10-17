@@ -60,9 +60,8 @@ Most likely Aftermath will not be compatible with many other mods, due in large 
 - The Mask Master (Map)
 - Agus451 (Gparam)
 
-### Music Department
+### Sound Department
 - Horusyuh (Music artist)
-- Maybe Birb (Just adds the music)
 
 ### Lore Scribes
 - Hunter
