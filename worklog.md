@@ -13,15 +13,15 @@ In addition, I can't keep track of everyone and everything, so this is likely to
 - Ash asset
 - Garage icons acquisition
 - Music creation
-
-
-
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ## Development Team (Alt)
 An alternate list without repition.
 - The Mask Master (Development Lead / Head Model Designer)
