@@ -1,6 +1,8 @@
+---
 **2025-10-31**
 # AC6 Aftermath Developer Blog - Oct 2025
 ![20251016205105_1](https://github.com/user-attachments/assets/cc5f33e9-6063-47f1-b5a1-2b3bd10313c3)
+---
 
 A lot of people have asked where they can keep track of the mod, and while we still plan to make posts on the r/armoredcore subreddit, we're also now going to keep this developer blog going throughout production!  
 The blog is maintained and updated by Maybe Birb, currently head programmer in the team.  
