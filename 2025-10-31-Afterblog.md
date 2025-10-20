@@ -1,4 +1,3 @@
----
 **2025-10-31**
 # AC6 Aftermath Developer Blog - Oct 2025
 ![20251016205105_1](https://github.com/user-attachments/assets/cc5f33e9-6063-47f1-b5a1-2b3bd10313c3)
