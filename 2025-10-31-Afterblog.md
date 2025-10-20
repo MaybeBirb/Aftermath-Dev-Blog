@@ -15,7 +15,7 @@ The blog is maintained and updated by Maybe Birb, currently head programmer in t
   One of the most substantial breakthroughs we found was making our custom enemies have sound. Previously, the new enemies (with new models) didn't actually know what sound IDs they were supposed to be drawing from because of Fromsoft's file encryption, but by adding a unique sort of 'decrypter' for each model, we've managed to make it so the enemies can actually play sounds again.  
   (If you're curious to see what the issue was, see Rubicon's Inferno's HCs. They tended to lack most sounds, very noticeable with melee HCs)  
 
-  There is an understandable point of frustration some of you might have after reading this developer blog. "You're still on the first mission? Hasn't this mod been in development for almost a year now?"
+  There is an understandable point of frustration some of you might have after reading this developer blog. "You're still on the first mission? Hasn't this mod been in development for almost a year now?"  
   Be aware that the past several year has been filled with more sporadic work due to our team being occupied on personal projects. As well, our focus was on the balancing of weapons and frames, which required extensive modeling, programming, and live playtesting - and not to mention what I'd said about when the first mission is completed. With us making our way through arguably the roughest mission of the first chapter, we're optimistic about progress accelerating from here.  
 ---
 ### Monthly QnA
