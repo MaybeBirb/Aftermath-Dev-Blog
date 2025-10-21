@@ -3,8 +3,8 @@
 ![20251016205105_1](https://github.com/user-attachments/assets/cc5f33e9-6063-47f1-b5a1-2b3bd10313c3)
 
 ---  
-A lot of people have asked where they can keep track of the mod, and while we still plan to make posts on the r/armoredcore subreddit, we're also now going to keep this developer blog going throughout production!  
-The blog is maintained and updated by Maybe Birb, currently head programmer in the team.  
+ ‎  ‎ A lot of people have asked where they can keep track of the mod, and while we still plan to make posts on the r/armoredcore subreddit, we're also now going to keep this developer blog going throughout production!  
+ ‎  ‎ The blog is maintained and updated by Maybe Birb, currently head programmer in the team.  
 
 ---  
 ‎ ‎  ‎ October started as a busy time for much of the Aftermath team. Not necessarily because of actual modding work, but because midterms also happened around this time. Regardless, a little progress was made in early October. While September had previously ended with some further work on generator particles, this month was colored largely by the creation process of the first mission in the game.  
