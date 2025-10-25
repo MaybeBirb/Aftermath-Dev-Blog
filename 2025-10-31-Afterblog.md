@@ -9,7 +9,7 @@
  ‎  ‎ The blog is maintained and updated by Maybe Birb, currently head programmer in the team.  
 
 ---  
-‎ ‎  ‎ October started as a busy time for much of the Aftermath team. Not necessarily because of actual modding work, but because midterms also happened around this time. Regardless, a little progress was made in early October. While September had previously ended with some further work on generator particles, this month was colored largely by the creation process of the first mission in the game.  
+‎ ‎  ‎ October started as a busy time for much of the Aftermath team. Not necessarily because of actual modding work, but because midterms also happened around this time. Regardless, a little progress was made in early October. While September had previously ended with some further work on generator particles, this month was colored largely by the creation process of the first mission in the game, which has finished base development and is now undergoing a rigorous QA process. The mission is fully functional, but has some pretty noticeable flaws (and relies on the player moving at a slower pace), which will be fixed by the QA.  
 
 ‎ ‎  ‎ The starting mission is one of the most important milestones to complete for several reasons. To make it, we had to make two maps, a whole mess of enemies, a boss, a soundtrack, and an entirely new starting frame (plus a weapon). Because we've made all of that now, though, we'll be able to keep on using those maps and enemies in future missions, thereby lightening the workload.  
 
