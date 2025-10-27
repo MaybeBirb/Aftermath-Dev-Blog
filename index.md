@@ -72,7 +72,7 @@ Yes on both counts:
 - Aftermath is designed to be naturally Co-op mod compatible, but we strongly advise you play through it solo first due to the lore and overall first-time experience.
 
 **Will Aftermath be compatible with X Mod?**  
-Most likely Aftermath will not be compatible with many other mods, due in large part to the bredth of what it changes. Regardless, we intend to deliver a mod that's so comprehensive, you won't feel the need to install other mods in addition to it.
+Most likely Aftermath will not be compatible with many other mods, due in large part to the breadth of what it changes. Regardless, we intend to deliver a mod that's so comprehensive, you won't feel the need to install other mods in addition to it.
 
 **Will Aftermath be available on colsole?**
 Unfortunately, there are technical limitations that prevent us from distributing mods on consoles. However, it should be compatible with the steam deck.
