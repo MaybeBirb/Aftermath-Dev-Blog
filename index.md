@@ -78,6 +78,8 @@ Unfortunately, there are technical limitations that prevent us from distributing
 **Do you use AI in Aftermath?**  
 We have no intention of using any AI-generated images, voices, soundtracks, or other such content.  
 ---
+
 ## WORKLOG
 ---
+
 Click [here](worklog.md) to view the current list of things the team is working on.
