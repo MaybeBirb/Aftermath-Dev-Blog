@@ -64,26 +64,26 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 ## FAQ
 ---
 
-**When is Aftermath's release date?**  
+**When is the release date for Aftermath?**  
 There isn't one. Significant progress *is* being made on a daily basis, but the scope of the mod keeps expanding, and we're still documenting various things to speed up later development stages. In other words, this is the slowest development stage, so it's impossible to gauge how fast we'll be able to work on the rest.
 
 **Will Aftermath cost money?**  
 No, never. <ins>If someone tries to charge you money for the mod, it is a scam.</ins>  
-We *may* eventually open a Patrion page. The money would go *exclusively* toward the mod's development, covering costs such as paying voice actors, musicians, artists, and other such people for their services.
+We *may* eventually open a Patrion page. The money would go *exclusively* toward the mod's development, covering costs such as paying voice actors, musicians, artists, and other such people for their services, or paying for specialized modding tools.
 
 **Will Aftermath be Co-op/PvP compatible?**  
-Yes on both counts: 
-- We intend to naturally include Open Server, a mod that hosts private modded PvP servers without the risk of bans.
-- Aftermath is designed to be naturally Co-op mod compatible, but we strongly advise you play through it solo first due to the lore and overall first-time experience.
+Yes on both counts:  
+-Aftermath is designed to be naturally compatible with the [Co-op mod](https://www.nexusmods.com/armoredcore6firesofrubicon/mods/3), but we strongly advise you play through it solo first due to the lore and overall first-time experience.  
+-We intend to naturally include Open Server, a mod that hosts private, moddable PvP servers without the risk of being banned.  
 
-**Will Aftermath be compatible with X Mod?**  
-Most likely Aftermath will not be compatible with many other mods, due in large part to the breadth of what it changes. Regardless, we intend to deliver a mod that's so comprehensive, you won't feel the need to install other mods in addition to it.
+**Will Aftermath be compatible with (X Mod)?**  
+With the exception of most cosmetic-only mods (ie. KRDCD's model-changer mods), Aftermath will probably *not* be compatible with many other mods, due in large part to the breadth of what it changes. Regardless, we intend to deliver a mod that's so comprehensive, you won't feel the need to install other mods in addition to it.
 
 **Will Aftermath be available on colsole?**
 Unfortunately, there are technical limitations that prevent us from distributing mods on consoles. However, it should be compatible with the steam deck.
 
 **Do you use AI in Aftermath?**  
-We have no intention of using any AI-generated images, voices, soundtracks, or other such content.  
+We have no intention of using any AI-generated images, voices, soundtracks, texts, or other such content in Aftermath.  
 
 ---
 
