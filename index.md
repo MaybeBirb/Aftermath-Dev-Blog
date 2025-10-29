@@ -4,10 +4,10 @@ tagline: Dev Log
 description: Armored Core 6 - Aftermath
 ---
 
-This is the the monthly dev blog for the AC6 Aftermath mod!  
-At the end of each month, we'll post a new blog about what we accomplished that month, which will be linked in the **Monthly Logs** section.
+**This is the the monthly developer blog for Aftermath, am overhaul mod for Armored Core 6!**  
+At the end of each month, we'll post a new blog about what we accomplished. The blog will be linked in the **Monthly Logs** section.
 
-Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a new, custom campaign set after the Fires of Raven. The mod will provide an entirely unique campaign experience with new maps, enemies, bosses, music, voice actors, and lore, plus other features like new arena tabs, new parts (weapons, frames, internals, expansions), altered game mechanics, and more.  
+Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a new, custom campaign set after the Fires of Raven. The mod will provide an entirely unique campaign, including new maps, enemies, bosses, music, voice actors, characters, and lore, plus other features like new arena tabs, new parts (weapons, frames, internals, expansions), improved mechanics, and a variety of other additions and modifications.  
 
 ## Monthly Logs
 ### - [October 2025](2025-10-31-Afterblog.md)
@@ -53,6 +53,11 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 
 ### Voice Actors
 - Undecided
+
+### Special Thanks
+- wondermarshmallow (Part icon work)
+- The independent Aftermath PvP playtesters
+- All of the tool developers and modder resource creators
 
 ---
 
