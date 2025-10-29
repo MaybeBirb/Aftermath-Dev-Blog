@@ -53,7 +53,9 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 
 ### Voice Actors
 - Undecided
+
 ---
+
 ## FAQ
 ---
 
@@ -77,6 +79,7 @@ Unfortunately, there are technical limitations that prevent us from distributing
 
 **Do you use AI in Aftermath?**  
 We have no intention of using any AI-generated images, voices, soundtracks, or other such content.  
+
 ---
 
 ## WORKLOG
