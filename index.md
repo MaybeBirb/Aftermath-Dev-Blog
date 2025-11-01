@@ -4,7 +4,7 @@ tagline: Dev Log
 description: This is the the monthly developer blog for Aftermath, am overhaul mod for Armored Core 6! At the end of each month, we'll post a new blog about what we accomplished.
 ---
 
-**This is the the monthly developer blog for Aftermath, am overhaul mod for Armored Core 6!**  
+**This is the the monthly developer blog for Aftermath, an overhaul mod for Armored Core 6!** It also functions as something of a home page.  
 At the end of each month, we'll post a new blog about what we accomplished. The blog will be linked in the **Monthly Logs** section.
 
 Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a new, custom campaign set after the Fires of Raven. The mod will provide an entirely unique and fresh experience, including:  
