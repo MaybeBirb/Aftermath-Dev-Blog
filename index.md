@@ -9,7 +9,7 @@ At the end of each month, we'll post a new blog about what we accomplished. The 
 
 Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a new, custom campaign set after the Fires of Raven. The mod will provide an entirely unique and fresh experience, including:
 -New maps  
--New missions
+-New missions  
 -New enemies  
 -New bosses  
 -Custom music  
