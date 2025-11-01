@@ -14,3 +14,5 @@ It's hard to keep track of everyone and everything, so this is likely to miss a 
 - Ash asset development
 - Garage icons acquisition (on hold)
 - Music making
+- Active cutscene documentation
+- Voice actor auditioning and selection
