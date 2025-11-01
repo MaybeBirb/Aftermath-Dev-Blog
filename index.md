@@ -3,7 +3,7 @@ title: Aftermath Developer Blog
 tagline: Dev Log
 description: This is the the monthly developer blog for Aftermath, an overhaul mod for Armored Core 6! At the end of each month, we'll post a new blog about what we accomplished.
 ---
-<img width="1424" height="226" alt="AftermathTitle" src="https://github.com/user-attachments/assets/0c50049a-6cb8-4246-9d27-c82ed2046c93" />
+<img width="650" height="103" alt="AftermathTitle" src="https://github.com/user-attachments/assets/0c50049a-6cb8-4246-9d27-c82ed2046c93" />
 
 **This is the the monthly developer blog for Aftermath, an overhaul mod for Armored Core 6!** It also functions as something of a home page.  
 At the end of each month, we'll post a new blog about what we accomplished. The blog will be linked in the **Monthly Logs** section. Next month, we plan to update this site to be a more proper home page.
