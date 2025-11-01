@@ -15,7 +15,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 -Custom music  
 -Voice actors  
 -New characters  
--Expanded and added lore  
+-Added and expanded lore  
 -New arena tabs  
 -New parts (weapons, frames, internals, expansions)  
 -Rebalanced and fixed parts  
@@ -69,6 +69,8 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 
 ### Special Thanks
 - wondermarshmallow (Part icon work)
+- KRDCD (Some models)
+- ghjkloo4545 (Some models)
 - The independent Aftermath PvP playtesters
 - All of the tool developers and modder resource creators
 
