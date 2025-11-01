@@ -28,7 +28,7 @@
 
 ‎ ‎  ‎ Be aware that the past year has been filled with more sporadic work due to our team being occupied on personal projects. As well, our focus was on the balancing of weapons and frames, which required extensive modeling, programming, and live playtesting - and not to mention what I'd said about when the first mission is completed. With us making our way through arguably the roughest mission of the first chapter, we're optimistic about progress accelerating from here.  
 
- ‎  ‎ Understandably, you might want at least a release date guess. So to clarify, this could be wildly inaccurate in either direction, but we're shooting for a December 2026 full release. Again, it could be earlier, and it could be later (hopefully not) - this is a fairly liberal estimate.  
+ ‎  ‎The least I can do, though, is at least give a guesstimate release date. So to clarify, this could be wildly inaccurate in either direction, but we're shooting for a December 2026 full release. Again, it could be earlier, and it could be later (hopefully not) - this is a fairly liberal estimate.  
 
 ---  
 ### Monthly Q&A
