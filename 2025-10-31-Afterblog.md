@@ -28,6 +28,8 @@
 
 ‎ ‎  ‎ Be aware that the past year has been filled with more sporadic work due to our team being occupied on personal projects. As well, our focus was on the balancing of weapons and frames, which required extensive modeling, programming, and live playtesting - and not to mention what I'd said about when the first mission is completed. With us making our way through arguably the roughest mission of the first chapter, we're optimistic about progress accelerating from here.  
 
+ ‎  ‎ Understandably, you might want at least a release date guess. So to clarify, this could be wildly inaccurate in either direction, but we're shooting for a December 2026 full release. Again, it could be earlier, and it could be later (hopefully not) - this is a fairly liberal estimate.  
+
 ---  
 ### Monthly Q&A
 ‎ ‎  ‎ At the end of each month, we plan to post a notice about the latest developer blog release. However, this serves a purpose outside of being a notification: We'll look at any questions in the replies (or sent to the team through other methods), and will answer them at the end of the next blog.
