@@ -8,7 +8,7 @@
  ‎  ‎ Many people have asked where they can keep track of Aftermath’s progress. While we still plan to make posts on the r/armoredcore subreddit, we're also going to maintain this developer blog throughout production.  
 
 ---  
-‎ ‎  ‎ October was a busy month for the Aftermath team. Not necessarily due to work on the mod, but mostly because of midterms around that time, slowing progress substantially. Early into the month, we shifted from working on generator particles (where September had concluded) to building the mod's first mission. That mission has completed base development and is now in QA. It's fully functional, but it still needs adjustments - especially with resolving mission rigidity and inconsistent timings.
+‎ ‎  ‎ October was a busy month for the Aftermath team. Not necessarily due to work on the mod, but mostly because of midterms around that time, slowing progress substantially. Early into the month, we shifted from working on generator particles (where September had concluded) to building the mod's first mission. That mission has completed base development and is now in QA. It's fully functional, but a small amount of QA needs to happen before we can move on.
 
 ‎ ‎  ‎ The starting mission is one of the most important milestones to complete for several reasons. To make it, we had to make two maps, a whole mess of enemies, a boss, a soundtrack, and an entirely new starting frame (plus a weapon). Because we've made all of that now, though, we'll be able to keep on using those maps and enemies in future missions, thereby lightening the workload.  
 
