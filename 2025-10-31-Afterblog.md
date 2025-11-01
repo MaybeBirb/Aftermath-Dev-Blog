@@ -22,6 +22,8 @@
 
 ‎ ‎  ‎ (If you're curious to see what the issue was, see Rubicon's Inferno's HCs. They tended to lack most sounds, very noticeable with melee HCs.)  
 
+![20251101090023_1](https://github.com/user-attachments/assets/c668f344-3169-4613-8881-916c7b2be480)
+
 ‎ ‎  ‎ There is an understandable point of frustration some of you might have after reading this developer blog. "You're still on the first mission? Hasn't this mod been in development for almost a year now?"  
 
 ‎ ‎  ‎ Be aware that the past year has been filled with more sporadic work due to our team being occupied on personal projects. As well, our focus was on the balancing of weapons and frames, which required extensive modeling, programming, and live playtesting - and not to mention what I'd said about when the first mission is completed. With us making our way through arguably the roughest mission of the first chapter, we're optimistic about progress accelerating from here.  
