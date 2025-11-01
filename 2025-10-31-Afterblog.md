@@ -30,7 +30,7 @@
 
 ---  
 ### Monthly Q&A
-‎ ‎  ‎ At the end of each month, we plan to post a notice about the latest developer blog release. However, this serves a purpose outside of being a notification: We'll look at any questions in the replies (or sent to the team through other methods), and will answer them at the end of the next blog. *If you don't want your name/username credited for the question, please say so!*  
+‎ ‎  ‎ At the end of each month, we plan to post a notice about the latest developer blog release. However, this serves a purpose outside of being a notification: We'll look at any questions in the replies (or sent to the team through other methods), and will answer them at the end of the next blog.
 
  ‎  ‎ Also worth noting is that because this is the first time we've released a developer blog, we'd also appreciate feedback on the blog itself - the formatting, the content, things that were covered or missed, and the like.
 
