@@ -5,7 +5,7 @@ description: This is the the monthly developer blog for Aftermath, an overhaul m
 ---
 
 **This is the the monthly developer blog for Aftermath, an overhaul mod for Armored Core 6!** It also functions as something of a home page.  
-At the end of each month, we'll post a new blog about what we accomplished. The blog will be linked in the **Monthly Logs** section.
+At the end of each month, we'll post a new blog about what we accomplished. The blog will be linked in the **Monthly Logs** section. Next month, we plan to update this site to be a more proper home page.
 
 Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a new, custom campaign set after the Fires of Raven. The mod will provide an entirely unique and fresh experience, including:  
 -New maps  
@@ -20,7 +20,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 -New parts (weapons, frames, internals, expansions)  
 -Rebalanced and fixed parts  
 -Improved mechanics  
--Other miscellanious changes  
+-Other miscellaneous changes  
 
 ## Monthly Logs
 ### - [October 2025](2025-10-31-Afterblog.md)
@@ -95,7 +95,7 @@ Yes on both counts:
 With the exception of most cosmetic-only mods (ie. KRDCD's model-changer mods), Aftermath will probably *not* be compatible with many other mods, due in large part to the breadth of what it changes. Regardless, we intend to deliver a mod that's so comprehensive, you won't feel the need to install other mods in addition to it.
 
 **Will Aftermath be available on colsole?**
-Unfortunately, there are technical limitations that prevent us from distributing mods on consoles. However, it should be compatible with the steam deck.
+Unfortunately, there are technical limitations that prevent us from distributing mods on consoles. However, it should be compatible with the Steam Deck.
 
 **Do you use AI in Aftermath?**  
 We have no intention of using any AI-generated images, voices, soundtracks, texts, or other such content in Aftermath.  
