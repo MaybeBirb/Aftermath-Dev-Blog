@@ -66,7 +66,14 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - Maybe Birb
 
 ### Voice Actors
-- Undecided
+- Bluejay0
+- Dude Wearing Shades
+- Jewish Meme Man
+- LilDoodle
+- Pallor
+- PandaVoltz
+- Sundance
+- The Mechanthrope
 
 ### Special Thanks
 - wondermarshmallow (Part icon work)
