@@ -25,6 +25,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 
 ## Monthly Logs
 ### - [October 2025](2025-10-31-Afterblog.md)
+### - [November 2025](2025-11-31-Afterblog.md)
 ### - ...
 
 ---
