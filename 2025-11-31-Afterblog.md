@@ -13,9 +13,14 @@
 
  ‎  ‎ In the meantime, we spent a little time expanding our knowledge of how audio adding works, as the program used for it (wwise) was largely unfamiliar to most of us. However, we've discovered how to do some audio editing in the program, which will hopefully allow us to further streamline the process of adding both dialogue and music alike.  
 
+ ‎  ‎ I also prepared further in advance for a final release of the mod by investigating how to make a portable installer. This would hopefully allow users to install the whole mod with just a .bat or .msi script, with plenty of customization, and then be able to launch it through a desktop shortcut.  
+ ‎  ‎ I have, in the past, heard various people sad about not being able to go through all the various hoops of setting up mods, so I imagine this would be a very welcome change... but it is harder than it looks. We'll see how it turns out, I'm optimistic.
+
 ![20251120171453_1](https://github.com/user-attachments/assets/69c2272a-dcd0-4cac-b334-32a5017c5246)
 
  ‎  ‎ We've also begun adding a few more melee weapons as the last of the parts we intend to add. Vumsy in particular is extremely experienced with melee weapon modification, which means their quality should hopefully be extraordinary; and we do believe players will enjoy them thoroughly!  
+
+ ‎  ‎ The last thing of particular note is that we cleaned up some yet-unused maps, and resotred functionality for NEST fights. PvP is a side objective of the mod, but in its full release, we do plan for it to be fully PvP-compatible with no risk of bans.  
 
  ‎  ‎ You may recall that, in the last blog, I'd said this page would expand into a fuller wiki. That didn't really end up happening because finals for college hit very abruptly... I'm not entirely sure whether or not to make this a wiki until the mod releases anyway. Regardless, I'll see what I can do and what people think.  
  
@@ -24,5 +29,5 @@
 ‎ ‎  ‎ (Presently empty)
 
 ---
-Thanks for stopping by! Stay tuned for more updates and showcases, and we'll see you next month!
+That's pretty much all we've got this month. Thanks for taking the time to stop by, and we'll see you next month!
 *- Maybe Birb, Head Programmer*
