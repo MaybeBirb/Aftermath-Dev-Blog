@@ -82,6 +82,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - wondermarshmallow (Part icon work)
 - KRDCD (Some models)
 - ghjkloo4545 (Some models)
+- chainfailure (Open Server mod)
 - The independent Aftermath PvP playtesters
 - All of the tool developers and modder resource creators
 
