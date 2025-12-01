@@ -39,6 +39,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - Maybe Birb
 - Agus451 (Gparam)
 - sem_daniel (Arena)
+- Vumsy
 
 ### Model Department
 - The Mask Master
@@ -58,6 +59,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 
 ### Sound Department
 - Horusyuh (Music artist)
+- The Mechanthrope (Music artist)
 
 ### Lore Scribes
 - Hunter
