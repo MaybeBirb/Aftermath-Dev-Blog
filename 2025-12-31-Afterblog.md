@@ -13,10 +13,11 @@
 
 ‎ ‎  ‎ Problematically, outside of those few items I just discussed, I'm not allowed to say many of the other things that happened, due to them being related to future content... however, taking a page out of the books of many other developers, we decided to also start focusing more on tight quality assurance and making the modding process easier for team members, such that we can ensure the mod's full release will proceed smoothly and with as few bugs as possible. 
 
-‎ ‎  ‎ The only other thing I can mention with confidence is that we're finding quite a few ways to make dialogue and gameplay fluid around the player's build.  
-‎ ‎  ‎ Imagine bosses or enemy ACs that have unique dialogue if you select a certain preset- like if Snail had things to say about you fighting him in Rusty's AC, or if a boss insulted the player for running a Pile Bunker / Chainsaw on Basho arms. Imaging if the WLT rifle was in the store from the start (for an outrageous price), so you save all your money to buy it, and when you take it on a mission then Walter actually comments about it.
+‎ ‎  ‎ The only other thing I can mention with confidence is that we're finding quite a few ways to make dialogue and gameplay change around the player's build.  
 
-‎ ‎  ‎ Yes, those are the sorts of changes we can make. Aftermath is intended to be a highly adaptable mod depending on what ***you*** bring to the table.
+‎ ‎  ‎ Imagine bosses or enemy ACs that have unique dialogue if you select a certain preset: Like if Snail had things to say about you fighting him in Rusty's AC, or if a boss insulted the player for running Pile Bunker & Chainsaw on Basho arms. Imaging if the WLT rifle was in the store from the start (for an outrageous price), so you save all your money to buy it first- and when you take it on the soonest available mission, then Walter actually comments about you saving for it.
+
+‎ ‎  ‎ Those are the sorts of changes we can make. Aftermath is intended to be a highly adaptable mod, changing based on what ***you*** bring to the table.
 
 ![20251216100614_1](https://github.com/user-attachments/assets/302073ee-ca79-4dea-9298-0b7fd541e2d6)
 
