@@ -26,6 +26,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 ## Monthly Logs
 ### - [October 2025](2025-10-31-Afterblog.md)
 ### - [November 2025](2025-11-31-Afterblog.md)
+### - [December 2025](2025-12-31-Afterblog.md)
 ### - ...
 
 ---
@@ -55,6 +56,8 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 
 ### Mission & Map Department
 - Maybe Birb (Mission/Map)
+- Sundance (Mission)
+- Uezyteue (Mission)
 - The Mask Master (Map)
 - Agus451 (Gparam)
 
@@ -77,12 +80,15 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - PandaVoltz
 - Sundance
 - The Mechanthrope
+- ..dyka..
 
 ### Special Thanks
 - wondermarshmallow (Part icon work)
 - KRDCD (Some models)
 - ghjkloo4545 (Some models)
 - chainfailure (Open Server mod)
+- Drakrylos (Third-party help)
+- Margakis (Official Linux Goober)
 - The independent Aftermath PvP playtesters
 - All of the tool developers and modder resource creators
 
@@ -117,4 +123,4 @@ We have no intention of using any AI-generated images, voices, soundtracks, text
 ## WORKLOG
 ---
 
-Click [here](worklog.md) to view the current list of things the team is working on.
+Click [here](worklog.md) to view the current list of things the team is working on. (OUTDATED)
