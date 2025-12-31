@@ -10,8 +10,9 @@
 ‎ ‎  ‎ December was largely a month focused around future planning. Conceptualized was a comprehensive mission list to bring the team's ideas for missions together, as well as a replacement for the old Training missions - given the mod is set in a future well after Raven completed mercenary certification.  
 
 ‎ ‎  ‎ That being said, there was also active work being done for missions. Two additional members of the team were trained in mission creation, including a new addition to the team, so our total number of mission creators has been increased to 3. The second mission was nearly completed during the month as well, but due to burnout on the part of its primary developer and an end to the college semester, the team has yet to finalize the mission.  
+‎ ‎  ‎ Speaking of team members, we similarly added an additional voice actor! The team is more or nearing completion in terms of what we'll need.  
 
-‎ ‎  ‎ Problematically, outside of those few items I just discussed, I'm not allowed to say many of the other things that happened, due to them being related to future content... however, taking a page out of the books of many other developers, we decided to also start focusing more on tight quality assurance and making the modding process easier for team members, such that we can ensure the mod's full release will proceed smoothly and with as few bugs as possible. 
+‎ ‎  ‎ Problematically, outside of those few items I just discussed, I'm not allowed to say many of the other things that happened, due to them being related to future content... however, taking a page out of the books of many other developers, we decided to also start focusing more on tight quality assurance and making the modding process easier for team members, such that we can ensure the mod's full release will proceed smoothly and with as few bugs as possible.
 
 ‎ ‎  ‎ The only other thing I can mention with confidence is that we're finding quite a few ways to make dialogue and gameplay change around the player's build.  
 
