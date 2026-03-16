@@ -48,6 +48,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - Sundance
 - CasvalRel
 - Helldiver450 (Pre-rendered Cutscenes)
+- L1nus
 
 ### FXR Department
 - B3N4ZC4L.VTA
@@ -70,6 +71,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - HorizoneARC
 - The Mask Master
 - Maybe Birb
+- GREEN_KNIGHT3
 
 ### Voice Actors
 - Bluejay0
@@ -81,6 +83,9 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - Sundance
 - The Mechanthrope
 - ..dyka..
+- Rhus
+- GREEN_KNIGHT3
+- smitty
 
 ### Special Thanks
 - wondermarshmallow (Part icon work)
@@ -89,7 +94,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - chainfailure (Open Server mod)
 - Drakrylos (Third-party help)
 - Margakis (Official Linux Goober)
-- The independent Aftermath PvP playtesters
+- The independent Aftermath playtesters
 - All of the tool developers and modder resource creators
 
 ---
