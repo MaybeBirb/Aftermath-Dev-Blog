@@ -117,7 +117,7 @@ Yes on both counts:
 **Will Aftermath be compatible with (X Mod)?**  
 With the exception of most cosmetic-only mods (ie. KRDCD's model-changer mods), Aftermath will probably *not* be compatible with many other mods, due in large part to the breadth of what it changes. Regardless, we intend to deliver a mod that's so comprehensive, you won't feel the need to install other mods in addition to it.
 
-**Will Aftermath be available on colsole?**
+**Will Aftermath be available on colsole?**  
 Unfortunately, there are technical limitations that prevent us from distributing mods on consoles. However, it should be compatible with the Steam Deck.
 
 **Do you use AI in Aftermath?**  
