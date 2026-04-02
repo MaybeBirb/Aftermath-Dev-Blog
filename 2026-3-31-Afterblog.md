@@ -2,7 +2,7 @@
 # AC6 Aftermath Developer Blog - Mar 2026  
 
 ---  
-[Image]
+![20260321230044_1](https://github.com/user-attachments/assets/234261d4-32c7-4000-9d97-3b000eb49453)
 
 ---  
 Over the months since the last developer blog, there has been an incredible amount of work on Aftermath. That said, there are a number of topics to cover.
@@ -17,9 +17,21 @@ A decent amount of time has been poured into rebalancing many existing parts in 
 
 Some new parts have also been under construction for the mod, which will gradually be introduced over time to flesh out corporations with few melee weapons or frames (such as AWCAW and MARDOS).
 
+![20260202111732_1](https://github.com/user-attachments/assets/1d4648ab-4df2-49b2-b945-09613187f3d2)
+
 ## Campaign
 The campaign has been the primary focus of the last few months. Not only has a prototype cutscene visualizer been developed by the team's lead programmer to speed up cutscene research, the campaign itself has received development on various new missions, all the way through Operation Wallclimber, including many entirely new encounters and characters alongside the new plot and gameplay.
+
+While this isn't a campaign edit necessarily, we have also been hard at work making Wave Survival, a replacement for the Training missions. All of the Wave Survival operations will have 10 waves, except for Endless, which we're working on making infinite.
 
 ---  
 ### Monthly Q&A  
 ‎
+Q: Why did the blogs stop?  
+A: Life. Near the end of January, college work started again for several of the team members, leading to a lack of time to write more blog entries.
+
+Q: Is there now a timeline for Aftermath's release?  
+A: Tentatively, I want to say "sometime in early-mid 2027", but this is a pretty work-in-progress release date. However, it's formed around the current rate of progress.
+
+Q: Do you need any more playtesters or voice actors?  
+A: We've actually got a very comprehensive voice team, along with a lot of ongoing feedback. Currently, we're fine on both counts, but we'll reach out if we need any more!
