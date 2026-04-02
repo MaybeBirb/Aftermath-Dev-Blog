@@ -8,14 +8,14 @@
 Over the months since the last developer blog, there has been an incredible amount of work on Aftermath. That said, there are a number of topics to cover.
 
 ## Audio
-In the audio department, we've introduced several new members into our voice team, including Dyka, Rhus, Smitty, and Green Knight. Our team has begun having regular Sunday meetings to practice voice acting and bounce feedback off of one another, and rehearsal lines have been consistently given to the team. As time has progressed, it's become clear that we have an extremely talented, friendly, and cooperative voice team.
+In the audio department, we've introduced several new members into our voice team, including Dyka, Rhus, Smitty, Gradient, Matthias, and Green Knight. Our team has begun having regular Sunday meetings to practice voice acting and bounce feedback off of one another, and rehearsal lines have been consistently given to the team. As time has progressed, it's become clear that we have an extremely talented, friendly, and cooperative voice team.
 
-We also switched from ModEngine2 to ModEngine3, which included compatibility for adding custom dialogue to mods naturally. Only weeks later, our lead programmer discovered how to add custom music without relying on the BGM replacement packet publicly available on Nexusmods (as this was an outdated version).
+We also switched from ModEngine2 to ModEngine3, which includes compatibility for adding custom dialogue to mods naturally. Only weeks later, our lead programmer discovered how to add custom music without relying on the BGM replacement packet publicly available on Nexusmods (as this was an outdated version).
 
 ## Parts
 A decent amount of time has been poured into rebalancing many existing parts in the mod. Incorporating feedback from independent playtesters, we've been improving balance to make all weapons, vanilla or modded, as close to equally viable as possible.
 
-Some new parts have also been under construction for the mod, which will gradually be introduced over time to flesh out corporations with few melee weapons or frames (such as AWCAW and MARDOS).
+Some new parts have also been under construction for the mod, which will gradually be introduced over time to flesh out corporations with few melee weapons or frames (such as AWCAW and MARDOS). The modeling team recently acquired a new member called L1nus.
 
 ## Characters
 Several new character designs have been created by our coding department, and our voice team has been practicing potential voices for the characters. There isn't a whole lot to say on this particular subject, but character creation is ongoing.
