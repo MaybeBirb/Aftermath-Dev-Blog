@@ -17,6 +17,9 @@ A decent amount of time has been poured into rebalancing many existing parts in 
 
 Some new parts have also been under construction for the mod, which will gradually be introduced over time to flesh out corporations with few melee weapons or frames (such as AWCAW and MARDOS).
 
+## Characters
+Several new character designs have been created by our coding department, and our voice team has been practicing potential voices for the characters. There isn't a whole lot to say on this particular subject, but character creation is ongoing.
+
 ![20260202111732_1](https://github.com/user-attachments/assets/1d4648ab-4df2-49b2-b945-09613187f3d2)
 
 ## Campaign
