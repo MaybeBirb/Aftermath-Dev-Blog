@@ -30,6 +30,7 @@ While this isn't a campaign edit necessarily, we have also been hard at work mak
 ---  
 ### Monthly Q&A  
 ‎
+
 Q: Why did the blogs stop?  
 A: Life. Near the end of January, college work started again for several of the team members, leading to a lack of time to write more blog entries.
 
