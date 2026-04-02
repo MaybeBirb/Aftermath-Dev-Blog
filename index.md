@@ -27,6 +27,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 ### - [October 2025](2025-10-31-Afterblog.md)
 ### - [November 2025](2025-11-31-Afterblog.md)
 ### - [December 2025](2025-12-31-Afterblog.md)
+### - [Jan-Mar 2026](2026-3-31-Afterblog.md)
 ### - ...
 
 ---
@@ -86,6 +87,8 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - Rhus
 - GREEN_KNIGHT3
 - smitty
+- Gradient
+- Matthias
 
 ### Special Thanks
 - wondermarshmallow (Part icon work)
