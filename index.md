@@ -40,9 +40,9 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 
 ### Programming Team
 - Maybe Birb
-- Agus451 (Gparam)
 - sem_daniel (Arena)
 - Vumsy
+- Uezyteue
 
 ### Model Department
 - The Mask Master
@@ -58,7 +58,6 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 
 ### Mission & Map Department
 - Maybe Birb (Mission/Map)
-- Sundance (Mission)
 - Uezyteue (Mission)
 - The Mask Master (Map)
 
