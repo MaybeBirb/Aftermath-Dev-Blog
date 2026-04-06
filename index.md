@@ -61,7 +61,6 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - Sundance (Mission)
 - Uezyteue (Mission)
 - The Mask Master (Map)
-- Agus451 (Gparam)
 
 ### Sound Department
 - Horusyuh (Music artist)
