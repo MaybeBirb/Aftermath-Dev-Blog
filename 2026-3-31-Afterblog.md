@@ -25,7 +25,8 @@ Several new character designs have been created by our coding department, and ou
 ## Campaign
 The campaign has been the primary focus of the last few months. Not only has a prototype cutscene visualizer been developed by the team's lead programmer to speed up cutscene research, the campaign itself has received development on various new missions, all the way through Operation Wallclimber, including many entirely new encounters and characters alongside the new plot and gameplay.
 
-While this isn't a campaign edit necessarily, we have also been hard at work making Wave Survival, a replacement for the Training missions. All of the Wave Survival operations will have 10 waves, except for Endless, which we're working on making infinite.
+While this isn't a campaign edit necessarily, we have also been hard at work making Wave Survival, a replacement for the Training missions. All of the Wave Survival operations will have 10 waves, except for Endless, which we're working on making infinite.  
+Likewise, not really a campaign edit, but we have also restored a menu called **Trial Fit**, where you can assemble an AC with any of the parts in your inventory and the shop completely for free to plan out builds ahead of time.
 
 ---  
 ### Monthly Q&A  
