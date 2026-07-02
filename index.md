@@ -92,6 +92,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - wondermarshmallow (Part icon work)
 - KRDCD (Some models)
 - ghjkloo4545 (Some models)
+- Xlizikk (Some models)
 - chainfailure (Open Server mod)
 - Drakrylos (Third-party help)
 - Margakis (Official Linux Goober)
