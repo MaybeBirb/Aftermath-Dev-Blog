@@ -62,7 +62,7 @@ Aftermath is a yet-unreleased campaign overhaul for Armored Core 6, creating a n
 - The Mask Master (Map)
 
 ### Sound Department
-- Horusyuh (Music artist)
+- Viktorarts (Music artist)
 - The Mechanthrope (Music artist)
 
 ### Lore Scribes
